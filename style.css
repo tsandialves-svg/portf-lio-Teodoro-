@@ -26,7 +26,7 @@ header {
     width: 100%;
     height: 70px;
 
-    background-color: #333333;
+    background-color: #9e1a1a;
 
     padding: 15px;
 
@@ -52,7 +52,7 @@ nav a {
 
 
 nav a:hover {
-    background-color: #555555;
+    background-color: #9e1a1a;
 }
 
 
@@ -83,11 +83,8 @@ main {
 
 
 .apresentacao h1 {
-    color: #333333;
+    color: #9e1a1a;
 }
-
-
-/* HABILIDADES */
 
 .habilidades {
     text-align: center;
@@ -95,7 +92,7 @@ main {
 
 
 .habilidades h2 {
-    color: #333333;
+    color: #9e1a1a;
 }
 
 
@@ -123,7 +120,7 @@ main {
 
 
 .card h3 {
-    color: #333333;
+    color: #9e1a1a;
 }
 
 
@@ -143,7 +140,7 @@ main {
 
 
 .projetos h1 {
-    color: #333333;
+    color: #9e1a1a;
 }
 
 
@@ -189,12 +186,12 @@ main {
 
 
 .projeto-card h2 {
-    color: #333333;
+    color: #9e1a1a;
 }
 
 
 .projeto-card p {
-    color: #444444;
+    color: #9e1a1a;
 }
 
 
@@ -249,7 +246,7 @@ main {
 
     z-index: 999;
 
-    background-color: #333333;
+    background-color: #9e1a1a;
 
     color: white;
 
@@ -269,15 +266,15 @@ main {
 
 
 footer {
-    background-color: #333333;
+    background-color: #9e1a1a;
 
     color: white;
 
     text-align: center;
 
-    padding: 20px;
+    padding: 00px;
 
-    margin-top: 30px;
+    margin-top: 00px;
 }
 
 
